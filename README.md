@@ -1,4 +1,4 @@
-=# 👋 Hello, I'm Shiva Kumar Gunda
+=# 👋 Hello, I'm Gunda Shiva Kumar 
 
 ## Software Engineer | Data Science Enthusiast
 
